@@ -21,9 +21,6 @@
 [![VS Code](https://img.shields.io/badge/VSCODE-0a0f0b?style=for-the-badge&logo=vscode&logoColor=abd200&labelColor=0a0f0b)](https://code.visualstudio.com)
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=TheShantanu-1212&hide_border=true&theme=merko&card_width=450&hide_title=true&show_icons=true" width="409" height="150"/>
-  <img src="https://github-stats-extended-sand.vercel.app/api/top-langs?username=TheShantanu-1212&hide_border=true&theme=merko&layout=compact&hide_title=true" width="333" height="150"/>
+  <img src="https://github-stats-extended-skot.vercel.app/api?username=TheShantanu-1212&hide_border=true&theme=merko&card_width=450&hide_title=true&show_icons=true&hide=issues" width="409" height="150"/>
+  <img src="https://github-stats-extended-skot.vercel.app/api/top-langs?username=TheShantanu-1212&hide_border=true&theme=merko&layout=compact&hide_title=true" width="333" height="150"/>
 </p>
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TheShantanu-1212&repo=TheShantanu-1212%2FFastTorrent&theme=merko&hide_border=true&card_width=300)](https://github.com/TheShantanu-1212/FastTorrent)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TheShantanu-1212&repo=TheShantanu-1212%2Fprobe-sh&theme=merko&hide_border=true&card_width=300)](https://github.com/TheShantanu-1212/probe-sh)
