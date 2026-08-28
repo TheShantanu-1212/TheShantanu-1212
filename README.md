@@ -17,7 +17,7 @@ Welcome to my Github profile
 ## GitHub Stats:
 [![Shantanu's GitHub stats](https://github-stats-extended.vercel.app/api?username=TheShantanu-1212&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 ![](https://streak-stats.demolab.com/?user=TheShantanu-1212&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheShantanu-1212&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top used languages](https://github-stats-extended-sand.vercel.app/api/top-langs?username=TheShantanu-1212&layout=donut&theme=rose_pine)](https://github-stats-extended-sand.vercel.app/api/top-langs?username=anuraghazra&layout=donut&theme=rose_pine)
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skot1121) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanu-kotian/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skoti126@gmail.com) 
