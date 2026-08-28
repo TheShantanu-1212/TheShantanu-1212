@@ -20,5 +20,7 @@
 [![Linux](https://img.shields.io/badge/LINUX-0a0f0b?style=for-the-badge&logo=linux&logoColor=abd200&labelColor=0a0f0b)](https://www.linux.org/)
 [![VS Code](https://img.shields.io/badge/VSCODE-0a0f0b?style=for-the-badge&logo=vscode&logoColor=abd200&labelColor=0a0f0b)](https://code.visualstudio.com)
 
-[![Shantanu's GitHub stats](https://github-stats-extended.vercel.app/api?username=TheShantanu-1212&hide_border=true&theme=merko&card_width=450&hide_title=true&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
-[![Top used languages](https://github-stats-extended-sand.vercel.app/api/top-langs?username=TheShantanu-1212&hide_border=true&theme=merko&layout=compact&hide_title=true)](https://github-stats-extended-sand.vercel.app/api/top-langs?username=anuraghazra&layout=donut&theme=merko)
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=TheShantanu-1212&hide_border=true&theme=merko&card_width=450&hide_title=true&show_icons=true" width="409" height="150"/>
+  <img src="https://github-stats-extended-sand.vercel.app/api/top-langs?username=TheShantanu-1212&hide_border=true&theme=merko&layout=compact&hide_title=true" width="333" height="150"/>
+</p>
