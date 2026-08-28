@@ -1,36 +1,24 @@
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://raw.githubusercontent.com/TheShantanu-1212/TheShantanu-1212/main/intro.svg)
 
-# Hi, I'm Shantanu!
-Welcome to my Github profile
+[![Python](https://img.shields.io/badge/PYTHON-0a0f0b?style=for-the-badge&logo=python&logoColor=abd200&labelColor=0a0f0b)](https://www.python.org)
+[![FastAPI](https://img.shields.io/badge/FASTAPI-0a0f0b?style=for-the-badge&logo=fastapi&logoColor=abd200&labelColor=0a0f0b)](https://fastapi.tiangolo.com)
+[![Pydantic](https://img.shields.io/badge/PYDANTIC-0a0f0b?style=for-the-badge&logo=pydantic&logoColor=abd200&labelColor=0a0f0b)](https://docs.pydantic.dev)
+[![Flask](https://img.shields.io/badge/FLASK-0a0f0b?style=for-the-badge&logo=flask&logoColor=abd200&labelColor=0a0f0b)](https://flask.palletsprojects.com)
+[![C++](https://img.shields.io/badge/C%2B%2B-0a0f0b?style=for-the-badge&logo=c%2B%2B&logoColor=abd200&labelColor=0a0f0b)](https://isocpp.org)
+[![C](https://img.shields.io/badge/C-0a0f0b?style=for-the-badge&logo=c&logoColor=abd200&labelColor=0a0f0b)](https://www.c-language.org/)
+[![Java](https://img.shields.io/badge/JAVA-0a0f0b?style=for-the-badge&logo=openjdk&logoColor=abd200&labelColor=0a0f0b)](https://www.oracle.com/java)
+[![Postgres](https://img.shields.io/badge/POSTGRES-0a0f0b?style=for-the-badge&logo=postgresql&logoColor=abd200&labelColor=0a0f0b)](https://www.postgresql.org)
+[![MySQL](https://img.shields.io/badge/MYSQL-0a0f0b?style=for-the-badge&logo=mysql&logoColor=abd200&labelColor=0a0f0b)](https://www.mysql.com)
+[![SQLite](https://img.shields.io/badge/SQLITE-0a0f0b?style=for-the-badge&logo=sqlite&logoColor=abd200&labelColor=0a0f0b)](https://www.sqlite.org)
+[![Docker](https://img.shields.io/badge/DOCKER-0a0f0b?style=for-the-badge&logo=docker&logoColor=abd200&labelColor=0a0f0b)](https://www.docker.com)
+[![AWS](https://img.shields.io/badge/AWS-0a0f0b?style=for-the-badge&logo=amazonaws&logoColor=abd200&labelColor=0a0f0b)](https://aws.amazon.com)
+[![Vercel](https://img.shields.io/badge/VERCEL-0a0f0b?style=for-the-badge&logo=vercel&logoColor=abd200&labelColor=0a0f0b)](https://vercel.com)
+[![Git](https://img.shields.io/badge/GIT-0a0f0b?style=for-the-badge&logo=git&logoColor=abd200&labelColor=0a0f0b)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-0a0f0b?style=for-the-badge&logo=github&logoColor=abd200&labelColor=0a0f0b)](https://github.com)
+[![Linux](https://img.shields.io/badge/LINUX-0a0f0b?style=for-the-badge&logo=linux&logoColor=abd200&labelColor=0a0f0b)](https://www.linux.org/)
+[![VS Code](https://img.shields.io/badge/VSCODE-0a0f0b?style=for-the-badge&logo=vscode&logoColor=abd200&labelColor=0a0f0b)](https://code.visualstudio.com)
 
-## About Me
-
--  Fourth year engineering undergraduate at BITS Pilani Hyderabad campus
--  I enjoy working with Python and Linux
--  Always learning something new :)
-
-
-## Tech Stack:
-[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)](https://docs.pydantic.dev)
-[![Flask](https://img.shields.io/badge/flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
-[![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.c-language.org/)
-[![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java)
-[![Postgres](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
-[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com)
-[![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![Git](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Linux](https://img.shields.io/badge/linux-1793D1?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white)](https://code.visualstudio.com)
-
-## GitHub Stats:
-[![Shantanu's GitHub stats](https://github-stats-extended.vercel.app/api?username=TheShantanu-1212&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
-![](https://streak-stats.demolab.com/?user=TheShantanu-1212&theme=gruvbox&hide_border=false)<br/>
-[![Top used languages](https://github-stats-extended-sand.vercel.app/api/top-langs?username=TheShantanu-1212&layout=donut&theme=gruvbox)](https://github-stats-extended-sand.vercel.app/api/top-langs?username=anuraghazra&layout=donut&theme=rose_pine)
+[![Shantanu's GitHub stats](https://github-stats-extended.vercel.app/api?username=TheShantanu-1212&hide_border=true&theme=merko&card_width=450&hide_title=true&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+[![Top used languages](https://github-stats-extended-sand.vercel.app/api/top-langs?username=TheShantanu-1212&hide_border=true&theme=merko&layout=compact&hide_title=true)](https://github-stats-extended-sand.vercel.app/api/top-langs?username=anuraghazra&layout=donut&theme=merko)
