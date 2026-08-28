@@ -1,0 +1,20 @@
+<svg width="700" height="230" viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <rect x="0" y="0" width="700" height="230" rx="6" fill="#0a0f0b" />
+
+  <text x="30" y="55" font-size="32" font-weight="700" fill="#ffffff">
+    Hi, I'm Shantanu!
+  </text>
+
+  <line x1="30" y1="75" x2="670" y2="75" stroke="#2a2f2b" stroke-width="1" />
+
+  <g font-size="17" fill="#68b587">
+    <circle cx="38" cy="110" r="3" fill="#68b587" />
+    <text x="52" y="115">Fourth year engineering undergraduate at BITS Pilani Hyderabad campus</text>
+
+    <circle cx="38" cy="145" r="3" fill="#68b587" />
+    <text x="52" y="150">I enjoy working with Python and Linux</text>
+
+    <circle cx="38" cy="180" r="3" fill="#68b587" />
+    <text x="52" y="185">Always learning something new :)</text>
+  </g>
+</svg>
