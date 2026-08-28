@@ -1,4 +1,4 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true&height=250)
 
 ![](https://raw.githubusercontent.com/TheShantanu-1212/TheShantanu-1212/main/intro.svg)
 
@@ -24,3 +24,6 @@
   <img src="https://github-stats-extended.vercel.app/api?username=TheShantanu-1212&hide_border=true&theme=merko&card_width=450&hide_title=true&show_icons=true" width="409" height="150"/>
   <img src="https://github-stats-extended-sand.vercel.app/api/top-langs?username=TheShantanu-1212&hide_border=true&theme=merko&layout=compact&hide_title=true" width="333" height="150"/>
 </p>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TheShantanu-1212&repo=TheShantanu-1212%2FFastTorrent&theme=merko&hide_border=true&card_width=300)](https://github.com/TheShantanu-1212/FastTorrent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=TheShantanu-1212&repo=TheShantanu-1212%2Fprobe-sh&theme=merko&hide_border=true&card_width=300)](https://github.com/TheShantanu-1212/probe-sh)
